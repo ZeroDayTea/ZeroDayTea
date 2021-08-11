@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+You seem cool. I mean you're taking the time to read through my README so that probably means you're slacking off at work or something but since you're here I can tell you a little about myself. 
+
+Visit my site at https://patrickdobranowski.com to learn more.
+
 <!--
 **ZeroDayTea/ZeroDayTea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
