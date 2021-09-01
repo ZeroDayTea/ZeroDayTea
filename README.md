@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=ZeroDayTea&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
+
 
 🔭 You seem cool. I mean you're taking the time to read through my README so that probably means you're slacking off at work or something but since you're here I can tell you a little about myself. I'm currently attending Rock Canyon High School just beginning my senior year. I have a love for all things technology and spend most of my free time doing software development, full-stack development, and following my passion for cybersecurity. While in High School I founded/co-founded two technology startups (Dupper Analytics LLC and Cygnel Studios LLC) and am currently VPE of Dupper Analytics and CEO of Cygnel Studios. Don't let my High School status deter you however. I've been coding since I was in the 6th grade and my pieces of software, applications, games, and products have thousands of downloads and numerous trusting clients. For security purposes however, most of my work cannot be made publicly available on Github but if you would like to know more about it and what went into my creations then you can contact me through my personal email address, company email addresses, or you can shoot me a text.
 
