@@ -6,7 +6,7 @@
   </a>
   </p>
 
-🔭 You seem cool.
+🔭 You seem cool, but unfortunately most of my projects from Dupper Analytics to mobile apps are closed-source for security reasons. If you still want to learn about them check out my website linked below.
 
 🌱 My Top Skills Include:
 1. Software Development
