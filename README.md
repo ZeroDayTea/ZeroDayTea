@@ -1,4 +1,5 @@
-### Hi there 👋
+### 👋 Hi I'm Patrick.
+- I study Computer Science, Mathematics, and Physics at Vanderbilt University
 
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
@@ -17,17 +18,9 @@
 6. Lists in Markdown
 
 Visit my site at https://patrickdobranowski.com to learn more about me and my work
-<!--
-**ZeroDayTea/ZeroDayTea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Languages
+Python, C++, C#, Javascript (Node, React Native, React, Express, Next), Typescript, Java, PHP, x86 Assembly, MATLAB, SQL, HLSL, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools and Technologies
+MySQL, Postgres, MongoDB, Git, Docker, AWS EC2, AWS S3, AWS Lambda, Linux, Penetrating Testing Tools
