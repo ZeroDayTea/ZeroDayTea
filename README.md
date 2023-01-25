@@ -20,7 +20,7 @@
 Visit my site at https://patrickdobranowski.com to learn more about me and my work
 
 ### Languages
-Python, C++, C#, Javascript (Node, React Native, React, Express, Next), Typescript, Java, PHP, x86 Assembly, MATLAB, SQL, HLSL, CSS
+C++, Python (NumPy, Pandas, TensorFlow, PyTorch), C#, (Unity, .NET), C, Assembly (x86, ARM), Javascript/Typescript, Java, PHP, SQL, HLSL, CSS
 
 ### Tools and Technologies
 MySQL, Postgres, MongoDB, Git, Docker, AWS EC2, AWS S3, AWS Lambda, Linux, Penetrating Testing Tools
