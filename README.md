@@ -17,4 +17,4 @@ Visit my site at https://patrickdobranowski.com to learn more about me and my wo
 C++, Python (TensorFlow, PyTorch), C#, (Unity, .NET), C, Assembly (x86, ARM), Javascript/Typescript, Java, PHP, HLSL, Theorem Proving (Z3, Coq), Haskell
 
 ### Tools and Technologies
-Ghidra, IDA Pro, GDB, MySQL, Postgres, MongoDB, Git, Docker, AWS EC2, AWS S3, AWS Lambda, Linux
+Ghidra, IDA Pro, GDB, Burpsuite, MySQL, Postgres, MongoDB, Git, Docker, AWS EC2, AWS S3, AWS Lambda, Linux
